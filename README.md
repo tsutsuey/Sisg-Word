@@ -1,2 +1,2 @@
 # Sisg-Word
-Computer Word for Sets in C
+Computer Word Implementation for Sets in C
